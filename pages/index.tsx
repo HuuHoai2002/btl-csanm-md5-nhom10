@@ -41,7 +41,7 @@ const Home: React.FC = () => {
         />
         <meta property="og:rich_attachment" content="true" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="/MD5.png" />
+        <meta property="og:image" content="https://i.ibb.co/Sx6xRkj/MD5.png" />
         <meta property="og:image:type" content="image/png" />
         <meta
           property="og:image:alt"
